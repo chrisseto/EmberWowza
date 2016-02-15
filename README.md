@@ -2,6 +2,10 @@
 
 This README outlines the details of collaborating on this Ember addon.
 
+
+## Additional assets
+Aquire a copy of `VideoRecorder.swf` from [hdfvr.com](https://hdfvr.com/) and place it in the `public` folder.
+
 ## Installation
 
 * `git clone` this repository
